@@ -5,7 +5,7 @@ from PIL import Image
 from ultralytics import YOLO
 import tempfile
 import time
-ß
+
 # Set page configuration
 st.set_page_config(
     page_title="YOLOapp - Object Detection",
